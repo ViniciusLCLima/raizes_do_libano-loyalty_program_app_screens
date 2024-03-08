@@ -11,10 +11,10 @@ This repository presents the screens I have designed for the loyalty program app
 ![Same as preceding image but with other fields to be filled](https://github.com/ViniciusLCLima/raizes_do_libano-loyalty_program_app_screens/assets/87040226/823edc15-fb30-4149-8b8f-b5654acddabf)
 
 ### Explanation of the program conditions pages
-With user not logged in:
+With user not logged in:  
 ![Explanation about how Raízes Club works(page without having logged in)](https://github.com/ViniciusLCLima/raizes_do_libano-loyalty_program_app_screens/assets/87040226/089be726-dbe3-485f-8bc4-ad85661d940a)
 
-With user logged in:
+With user logged in:  
 ![Same as preceding image, but with menu option below and other small differences](https://github.com/ViniciusLCLima/raizes_do_libano-loyalty_program_app_screens/assets/87040226/031c8ac2-1274-48e5-a5d5-39940f9e3c33)
 
 ### Login page
